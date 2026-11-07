@@ -1,0 +1,10 @@
+model,condition,clip_edited,clip_direction,lpips_background,n_clip_edited,n_clip_direction,n_lpips_background
+gemini_image,blur,22.852 ± 5.682,0.111 ± 0.086,0.302 ± 0.185,20,20,14
+gemini_image,clean,24.139 ± 5.33,0.155 ± 0.114,0.104 ± 0.112,20,20,14
+gemini_image,lowres,23.106 ± 6.331,0.133 ± 0.096,0.262 ± 0.133,20,20,14
+instruct_pix2pix,blur,23.825 ± 5.397,0.105 ± 0.076,0.344 ± 0.171,19,19,13
+instruct_pix2pix,clean,23.641 ± 5.054,0.12 ± 0.072,0.213 ± 0.136,19,19,13
+instruct_pix2pix,lowres,22.551 ± 6.337,0.094 ± 0.071,0.287 ± 0.136,19,19,13
+sd15_img2img,blur,24.882 ± 5.415,0.088 ± 0.079,0.326 ± 0.195,20,20,14
+sd15_img2img,clean,24.261 ± 4.595,0.069 ± 0.083,0.264 ± 0.141,20,20,14
+sd15_img2img,lowres,24.452 ± 4.927,0.077 ± 0.085,0.298 ± 0.178,20,20,14

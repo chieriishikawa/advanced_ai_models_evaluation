@@ -1,0 +1,4 @@
+model,seconds_per_image,kwh_per_1000_images,aud_per_1000_images,gpu_hours_per_month,listing_ready_rate,monthly_saving_aud
+sd15_img2img,2.35,0.075,0.02,32.7,0.0,-1.0
+instruct_pix2pix,4.37,0.139,0.04,60.6,0.15,43748.0
+gemini_image,12.0,,58.5,,0.8,230408.0

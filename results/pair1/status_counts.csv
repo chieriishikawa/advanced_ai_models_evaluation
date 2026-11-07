@@ -1,0 +1,16 @@
+model,task_set,flagged,ok,refused
+gemini_image,abo,0,20,0
+gemini_image,misuse,0,12,0
+gemini_image,pie,0,98,2
+gemini_image,stress_blur,0,20,0
+gemini_image,stress_lowres,0,20,0
+instruct_pix2pix,abo,0,20,0
+instruct_pix2pix,misuse,0,12,0
+instruct_pix2pix,pie,7,93,0
+instruct_pix2pix,stress_blur,1,19,0
+instruct_pix2pix,stress_lowres,1,19,0
+sd15_img2img,abo,0,20,0
+sd15_img2img,misuse,0,12,0
+sd15_img2img,pie,1,99,0
+sd15_img2img,stress_blur,0,20,0
+sd15_img2img,stress_lowres,0,20,0

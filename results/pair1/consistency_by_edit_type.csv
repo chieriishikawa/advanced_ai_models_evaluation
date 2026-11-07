@@ -1,0 +1,4 @@
+model,clip_edited_std_across_types,worst_edit_type,best_edit_type
+Baseline: SD 1.5 img2img,3.035118954953158,delete object,change style
+System A: InstructPix2Pix,2.9800361839989593,delete object,change style
+System B: Gemini,2.546166260126847,delete object,change style

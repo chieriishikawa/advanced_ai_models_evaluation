@@ -1,0 +1,4 @@
+model,clip_whole,clip_direction,lpips_whole
+sd15_img2img,19.359,0.026,0.364
+instruct_pix2pix,19.923,0.042,0.364
+gemini_image,19.1,0.035,0.386

@@ -1,0 +1,6 @@
+edit_name,clip_direction,clip_direction,clip_direction,lpips_whole,lpips_whole,lpips_whole
+,sd15_img2img,instruct_pix2pix,gemini_image,sd15_img2img,instruct_pix2pix,gemini_image
+brighter lighting,0.037,0.01,0.034,0.334,0.157,0.128
+complex edit,0.002,0.016,0.003,0.359,0.226,0.247
+lifestyle scene,0.043,0.116,0.098,0.397,0.666,0.886
+white background,0.02,0.024,0.007,0.366,0.406,0.284

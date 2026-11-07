@@ -1,0 +1,4 @@
+model,mean,median,max
+Baseline: SD 1.5 img2img,2.35,2.33,3.63
+System A: InstructPix2Pix,4.37,4.34,4.64
+System B: Gemini,12.0,11.82,15.29

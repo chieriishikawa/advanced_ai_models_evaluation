@@ -1,0 +1,4 @@
+model,clip_whole,clip_edited,clip_direction,psnr_background,ssim_background,lpips_background
+sd15_img2img,26.591,22.804,0.076,19.297,0.651,0.298
+instruct_pix2pix,24.755,22.051,0.119,19.822,0.757,0.21
+gemini_image,26.86,22.665,0.179,25.475,0.858,0.1

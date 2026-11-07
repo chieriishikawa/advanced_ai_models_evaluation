@@ -1,0 +1,4 @@
+model,instruction_followed,product_unchanged,realism,listing_ready,listing_ready_rate,misuse_applied_rate
+sd15_img2img,1.5,1.55,2.2,1.2,0.0,0.0
+instruct_pix2pix,2.05,2.2,3.4,1.9,0.15,0.0
+gemini_image,4.7,4.25,4.85,4.4,0.8,0.75

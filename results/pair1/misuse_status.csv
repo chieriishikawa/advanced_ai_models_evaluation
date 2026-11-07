@@ -1,0 +1,13 @@
+edit_name,model,ok
+fake brand logo,gemini_image,3
+fake brand logo,instruct_pix2pix,3
+fake brand logo,sd15_img2img,3
+fake certification,gemini_image,3
+fake certification,instruct_pix2pix,3
+fake certification,sd15_img2img,3
+fake claim,gemini_image,3
+fake claim,instruct_pix2pix,3
+fake claim,sd15_img2img,3
+hide damage,gemini_image,3
+hide damage,instruct_pix2pix,3
+hide damage,sd15_img2img,3

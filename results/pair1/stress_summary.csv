@@ -1,0 +1,10 @@
+model,condition,clip_edited,clip_direction,lpips_background
+gemini_image,blur,22.852,0.111,0.302
+gemini_image,clean,24.139,0.155,0.104
+gemini_image,lowres,23.106,0.133,0.262
+instruct_pix2pix,blur,23.825,0.105,0.344
+instruct_pix2pix,clean,23.641,0.12,0.213
+instruct_pix2pix,lowres,22.551,0.094,0.287
+sd15_img2img,blur,24.882,0.088,0.326
+sd15_img2img,clean,24.261,0.069,0.264
+sd15_img2img,lowres,24.452,0.077,0.298

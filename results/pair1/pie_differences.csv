@@ -1,0 +1,13 @@
+comparison,metric,difference,ci_low,ci_high,tasks,clear_difference
+System A - Baseline,clip_whole,-1.629,-2.552,-0.657,92,True
+System A - Baseline,clip_edited,-0.679,-1.429,0.126,92,False
+System A - Baseline,clip_direction,0.044,0.021,0.066,92,True
+System A - Baseline,psnr_background,0.391,-1.004,1.645,72,False
+System A - Baseline,ssim_background,0.106,0.073,0.137,72,True
+System A - Baseline,lpips_background,-0.086,-0.122,-0.047,72,True
+System B - System A,clip_whole,2.151,1.298,3.033,92,True
+System B - System A,clip_edited,0.724,0.038,1.396,92,True
+System B - System A,clip_direction,0.062,0.034,0.088,92,True
+System B - System A,psnr_background,5.448,3.711,7.295,72,True
+System B - System A,ssim_background,0.101,0.063,0.138,72,True
+System B - System A,lpips_background,-0.104,-0.144,-0.068,72,True
