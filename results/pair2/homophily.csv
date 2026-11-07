@@ -1,0 +1,5 @@
+relation,edges,edge_homophily,fraud_neighbour_share_for_fraudsters,fraud_share
+U-P-U,147382.0,0.785,0.113,0.095
+U-S-U,2799549.0,0.956,0.158,0.095
+U-V-U,693044.0,0.961,0.209,0.095
+all,3298534.0,0.949,0.138,0.095

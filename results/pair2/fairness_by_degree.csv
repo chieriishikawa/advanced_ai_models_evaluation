@@ -1,0 +1,13 @@
+model,degree_group,users,fraud_share,auc_pr,recall,false_positive_rate
+mlp,low,1153,0.195,0.947,0.862,0.016
+mlp,medium,1151,0.073,0.845,0.821,0.01
+mlp,high,1152,0.017,0.627,0.4,0.001
+gcn,low,1153,0.195,0.665,0.689,0.093
+gcn,medium,1151,0.073,0.421,0.381,0.041
+gcn,high,1152,0.017,0.348,0.1,0.001
+graphsage,low,1153,0.195,0.946,0.898,0.03
+graphsage,medium,1151,0.073,0.834,0.833,0.019
+graphsage,high,1152,0.017,0.613,0.55,0.003
+fagcn,low,1153,0.195,0.905,0.773,0.016
+fagcn,medium,1151,0.073,0.778,0.702,0.009
+fagcn,high,1152,0.017,0.48,0.1,0.001

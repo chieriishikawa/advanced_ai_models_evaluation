@@ -1,0 +1,4 @@
+split,users,fraudsters,fraud_share
+train,3455,328,0.095
+validation,1728,164,0.095
+test,3456,329,0.095

@@ -1,0 +1,5 @@
+model,top_features,share_of_drop_in_top
+mlp,"feature_19, feature_14, feature_2, feature_22, feature_17",0.95
+gcn,"feature_19, feature_23, feature_17, feature_1, feature_2",0.78
+graphsage,"feature_19, feature_14, feature_13, feature_2, feature_7",0.94
+fagcn,"feature_19, feature_23, feature_6, feature_0, feature_2",0.99
