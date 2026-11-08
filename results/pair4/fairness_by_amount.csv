@@ -1,0 +1,10 @@
+model,amount_band,payments,frauds,recall,false_positive_rate
+isolation_forest,small (< 10 EUR),19603,46,0.2391,0.0008
+isolation_forest,medium (10-100 EUR),25882,25,0.2,0.0003
+isolation_forest,large (> 100 EUR),11477,28,0.3214,0.0048
+vae,small (< 10 EUR),19603,46,0.7609,0.0002
+vae,medium (10-100 EUR),25882,25,0.88,0.0003
+vae,large (> 100 EUR),11477,28,0.8214,0.0011
+flow,small (< 10 EUR),19603,46,0.7174,0.0004
+flow,medium (10-100 EUR),25882,25,0.88,0.0005
+flow,large (> 100 EUR),11477,28,0.7857,0.001

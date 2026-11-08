@@ -1,0 +1,4 @@
+flow,train_seconds,clean,clean_recall_at_1pct_fpr,drift,noise_0.1,noise_0.3,noise_0.5
+"flow, trained without noise",97.944,0.644,0.828,0.523,0.002,0.001,0.001
+"flow, trained with noise SD 0.1",99.684,0.696,0.848,0.516,0.659,0.034,0.006
+"VAE, for comparison",,0.694,,0.262,0.693,0.69,0.686
