@@ -1,0 +1,13 @@
+model,item_id,mean_rouge_l_between_repeats
+gemini,support_0,0.9084967320261438
+gemini,support_1,0.8754578754578756
+gemini,support_2,1.0
+gemini,support_3,0.8477720236340925
+gemini,support_4,0.6451056319477372
+gemini,support_5,1.0
+gptoss,support_0,1.0
+gptoss,support_1,0.8965867828612927
+gptoss,support_2,0.5974842767295597
+gptoss,support_3,0.5915938569947009
+gptoss,support_4,0.48685887948217
+gptoss,support_5,0.5974613230500849

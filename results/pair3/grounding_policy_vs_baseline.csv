@@ -1,0 +1,4 @@
+model,policy_adherence,policy_adherence,correctness,correctness,hallucination,hallucination
+,no_policy,policy,no_policy,policy,no_policy,policy
+gemini,2.2,4.5,2.5,4.7,0.75,0.05
+gptoss,2.05,4.6,2.1,4.65,0.75,0.15

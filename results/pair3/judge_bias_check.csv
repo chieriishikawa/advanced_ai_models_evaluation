@@ -1,0 +1,3 @@
+answer_model,gemini_judge,gptoss_judge,difference
+gemini,4.53,4.42,0.11
+gptoss,4.32,4.63,-0.31

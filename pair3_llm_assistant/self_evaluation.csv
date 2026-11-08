@@ -1,0 +1,57 @@
+row_id,message,answer,correctness,helpfulness,policy_adherence,tone,notes
+1,assistance to swap several items of order {{Order Number}},"Hi there! If you’d like to exchange items from order **{{Order Number}}**, you’ll need to return the original products first.
+
+**How to return:**
+1. Make sure the items are unused, in their original packaging, and being returned within 30 days of delivery.  
+2. For change‑of‑mind returns, you’ll cover the return postage.  
+3. For faulty, damaged or not‑as‑described items, the return postage is free under Australian Consumer Law.
+
+Once the seller receives the returned items, we’ll process a refund to your original payment method within 5‑7 business days. After the refund, you can place a new order for the replacement items.
+
+If the order has already been dispatched, it can’t be cancelled, but you can still return it following the steps above. Need more help or want to start the return? You can do it in **My Account > Orders** or let me know and I’ll connect you with a live agent.",5,5,5,5,very professional and helpful and correct
+2,I don't know how I can change to the gold account,"Southwind Market does not offer different account tiers like a ""gold account."" You can update your email, password, address, and payment methods in My Account > Settings.
+
+If you have any other questions about your account, please let me know!",3,2,4,1,
+3,where do I receive a refund of my money?,Refunds are issued to your original payment method within 5-7 business days after the seller receives the returned item.,4,3,4,5,
+4,tell me more about a delivery address change,"You can update your delivery address in **My Account > Settings**. Just edit the address fields and save the changes. If the order has already been dispatched, the new address won’t affect that shipment, so you may need to arrange a redelivery or return once it arrives. If you need further help, let me know or you can chat with a live agent (8 am‑8 pm AEST).",5,5,5,5,
+5,"I have to use the premium profile, how to do it?","I’m sorry, but our policy doesn’t cover premium profile setup. If you’d like help with this, I can connect you to a live‑chat agent. Let me know if you’d like me to do that.",1,3,1,5,
+6,where do I receive a refund of my money?,"Your refund will be returned to the same payment method you used for the purchase (e.g., Visa, Mastercard, PayPal, etc.). It’s processed within 5‑7 business days after the seller receives the returned item.",5,5,5,5,
+7,tell me more about a delivery address change,"You can change your delivery address in My Account > Settings. If you need to change the address for an order that has already been placed, please note that this isn't covered by our policy. I can connect you with a human agent if you'd like.",5,5,5,5,
+8,I need assistance to talk to customer service,"Sure thing! I’ll connect you with a live chat representative right away. They’re available 8 am–8 pm AEST, 7 days a week. If you prefer, you can also call us at 1800 000 000 (8 am–6 pm AEST weekdays).",5,5,5,4,
+9,"I have to use the premium profile, how to do it?","I can only help with questions about Southwind Market orders, delivery, returns, payments, accounts, and reviews. I cannot assist with questions about a ""premium profile."" Would you like help with anything else related to Southwind Market?",5,5,5,5,
+10,"I have to leave a comment about a product, how to do it?","To leave a review, please ensure it is honest and based on a real purchase. Fake, paid, or incentivized reviews can lead to account suspension.
+
+If you have any other questions about your Southwind Market orders, delivery, returns, payments, accounts, or reviews, feel free to ask!",3,3,4,4,
+11,I need assistance to talk to customer service,"I can help you with that! You can reach a human agent via live chat from 8 am to 8 pm AEST, 7 days a week. If you prefer to call, our phone line is open from 8 am to 6 pm AEST on weekdays at 1800 000 000.",4,3,5,5,
+12,I try to see in what cases can I ask for reimbursements,"You can receive a refund (reimbursement) in these situations:
+
+1. **Change‑of‑mind** – Within 30 days of delivery, the item is unused, in its original packaging, and you cover the return postage. (Personalised items, gift cards and opened hygiene products are excluded.)
+
+2. **Faulty, damaged or not‑as‑described** – Within 30 days of delivery you can return the item for free under Australian Consumer Law and get a refund or replacement.
+
+3. **Lost or undelivered order** – If the delivery hasn’t arrived 5 business days after the latest estimated delivery date, you can report it lost and receive a full refund.
+
+Refunds are processed to the original payment method within 5‑7 business days after the seller receives the returned item. If you need help starting a return, let me know!",3,3,2,3,
+13,I don't know how I can track my rebate,"I’m sorry, but our policy doesn’t cover tracking rebates. If you’d like help with this, I can connect you with a live‑chat agent. Let me know!",5,5,5,5,
+14,I don't know how I can track my rebate,"I can only help with Southwind Market orders, delivery, returns, payments, accounts, and reviews. I cannot help with tracking rebates. Would you like help with anything else related to your Southwind Market order?",5,5,5,4,
+15,talk with an operator,"I’m happy to connect you with a live‑chat operator. Please click the chat icon on our website or call us at 1800 000 000 (8 am–6 pm AEST, weekdays). A human agent will be with you shortly.",4,4,4,5,
+16,I try to see in what cases can I ask for reimbursements,"You can request a refund if your order hasn't arrived 5 business days after the latest estimated delivery date.
+
+For returns, you can get a refund for change-of-mind returns within 30 days of delivery if the item is unused and in original packaging (return postage is paid by you). If an item is faulty, damaged, or not as described, you can return it for free within 30 days for a refund or replacement.
+
+Refunds are issued to your original payment method within 5-7 business days after the seller receives the return.",3,3,3,2,
+17,I don't know how I can change to the gold account,"I’m sorry, but I don’t have information on a “gold account” in our store policies. If you’d like help with this, I can connect you with a live‑chat agent who can assist further. Let me know if you’d like me to do that.",5,5,5,5,
+18,assistance to swap several items of order {{Order Number}},"I can help you with returns, but we don't offer direct exchanges.
+
+If you'd like to return items from your order {{Order Number}}, you can do so within 30 days of delivery. For change-of-mind returns, items must be unused and in original packaging, and you'll cover the return postage. If an item is faulty, damaged, or not as described, the return is free.
+
+To start a return, please let me know which items you'd like to return and the reason.",5,5,5,4,
+19,talk with an operator,"No problem! I can connect you with a human agent. They are available to chat live from 8 am to 8 pm AEST, 7 days a week. Would you like me to transfer you now?",4,5,4,5,
+20,"I have to leave a comment about a product, how to do it?","Sure! To leave a review for a product you’ve purchased:
+
+1. Sign in to your Southwind Market account.  
+2. Go to **My Account > Orders** and find the order containing the product.  
+3. Click **Leave a Review** next to the item.  
+4. Write an honest review based on your experience, give a rating, and submit.
+
+Reviews must be from real purchases and cannot be paid or incentivised. If you need any further help, just let me know!",5,5,3,4,

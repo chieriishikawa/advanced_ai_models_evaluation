@@ -1,0 +1,5 @@
+model,condition,correctness,helpfulness,policy_adherence,tone,hallucination,resolved,rouge_l,seconds,output_tokens
+gemini,no_policy,2.5,2.3,2.2,4.35,0.75,0.05,0.226,1.299,90.55
+gemini,policy,4.667,3.926,4.5,4.648,0.037,0.574,0.15,1.207,52.852
+gptoss,no_policy,2.1,2.25,2.05,4.25,0.75,0.15,0.195,0.698,163.8
+gptoss,policy,4.352,4.167,4.259,4.852,0.241,0.537,0.161,0.332,114.481

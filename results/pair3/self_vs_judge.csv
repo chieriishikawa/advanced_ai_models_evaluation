@@ -1,0 +1,5 @@
+field,mean_absolute_difference,correlation
+correctness,1.1,-0.29
+helpfulness,1.4,-0.2
+policy_adherence,1.0,0.05
+tone,0.7,0.02

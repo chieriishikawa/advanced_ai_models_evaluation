@@ -1,0 +1,7 @@
+item_set,correctness,correctness,helpfulness,helpfulness,tone,tone,resolved,resolved
+,gemini,gptoss,gemini,gptoss,gemini,gptoss,gemini,gptoss
+support,4.67,4.35,3.93,4.17,4.65,4.85,0.57,0.54
+typos,5.0,4.5,4.6,4.6,4.8,5.0,0.8,0.9
+colloquial,4.4,3.6,3.5,3.6,4.3,4.6,0.4,0.5
+offensive,5.0,3.33,4.17,3.83,4.5,4.5,0.5,0.33
+multi_intent,4.67,3.33,3.67,3.33,4.67,4.83,0.17,0.17

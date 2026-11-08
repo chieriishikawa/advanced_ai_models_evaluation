@@ -1,0 +1,3 @@
+model,correctness,helpfulness,policy_adherence,tone
+gptoss,4.3,4.5,4.0,4.6
+gemini,4.1,3.9,4.4,4.0
