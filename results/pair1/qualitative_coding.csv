@@ -1,0 +1,61 @@
+task_id,model,edit_name,listing_ready,failure_mode,notes
+abo_91qhS0mWCKL_white_background,sd15_img2img,white background,1.0,product redrawn or detail lost,redrew the packaging; text garbled
+abo_91qhS0mWCKL_brighter_lighting,sd15_img2img,brighter lighting,1.0,product redrawn or detail lost,redrew the packaging; text garbled
+abo_91qhS0mWCKL_lifestyle_scene,sd15_img2img,lifestyle scene,1.0,product redrawn or detail lost,no living room; packaging redrawn
+abo_91qhS0mWCKL_complex_edit,sd15_img2img,complex edit,1.0,product redrawn or detail lost,no shadow; packaging redrawn
+abo_71LOyJw0oXL_white_background,sd15_img2img,white background,1.0,product removed or replaced,pillow turned into a dog-like creature
+abo_71LOyJw0oXL_brighter_lighting,sd15_img2img,brighter lighting,1.0,product redrawn or detail lost,confetti pattern added to the pillow
+abo_71LOyJw0oXL_lifestyle_scene,sd15_img2img,lifestyle scene,1.0,product removed or replaced,room with a child; pillow gone
+abo_71LOyJw0oXL_complex_edit,sd15_img2img,complex edit,1.0,product removed or replaced,pillow turned into an animal face
+abo_51NiiFw3qYL_white_background,sd15_img2img,white background,2.0,instruction not carried out,"sparkly grey background, not plain white"
+abo_51NiiFw3qYL_brighter_lighting,sd15_img2img,brighter lighting,2.0,product redrawn or detail lost,bokeh background added; tap head altered
+abo_51NiiFw3qYL_lifestyle_scene,sd15_img2img,lifestyle scene,1.0,instruction not carried out,"blurry white room, no wooden table"
+abo_51NiiFw3qYL_complex_edit,sd15_img2img,complex edit,2.0,instruction not carried out,bokeh background; no shadow
+abo_81GOo6Ox-eL_white_background,sd15_img2img,white background,2.0,product redrawn or detail lost,case redrawn; printed text lost
+abo_81GOo6Ox-eL_brighter_lighting,sd15_img2img,brighter lighting,1.0,product redrawn or detail lost,case redrawn; printed text lost
+abo_81GOo6Ox-eL_lifestyle_scene,sd15_img2img,lifestyle scene,1.0,product redrawn or detail lost,case distorted; no living room
+abo_81GOo6Ox-eL_complex_edit,sd15_img2img,complex edit,1.0,product redrawn or detail lost,case redrawn; text lost; no shadow
+abo_71yrcq7MkKL_white_background,sd15_img2img,white background,1.0,product redrawn or detail lost,case pattern redrawn; side views became pencils
+abo_71yrcq7MkKL_brighter_lighting,sd15_img2img,brighter lighting,1.0,product redrawn or detail lost,case pattern redrawn
+abo_71yrcq7MkKL_lifestyle_scene,sd15_img2img,lifestyle scene,1.0,product removed or replaced,case became a wood pattern; no room
+abo_71yrcq7MkKL_complex_edit,sd15_img2img,complex edit,1.0,product redrawn or detail lost,case redrawn with a camera on it
+abo_91qhS0mWCKL_white_background,instruct_pix2pix,white background,1.0,product removed or replaced,packaging replaced by a blank panel
+abo_91qhS0mWCKL_brighter_lighting,instruct_pix2pix,brighter lighting,4.0,instruction not carried out,almost unchanged; small lighting change
+abo_91qhS0mWCKL_lifestyle_scene,instruct_pix2pix,lifestyle scene,1.0,product removed or replaced,living room generated; product gone
+abo_91qhS0mWCKL_complex_edit,instruct_pix2pix,complex edit,3.0,instruction not carried out,almost unchanged; no shadow added
+abo_71LOyJw0oXL_white_background,instruct_pix2pix,white background,1.0,product removed or replaced,pillow gone; empty white backdrop
+abo_71LOyJw0oXL_brighter_lighting,instruct_pix2pix,brighter lighting,1.0,product removed or replaced,grey room with a lamp; pillow gone
+abo_71LOyJw0oXL_lifestyle_scene,instruct_pix2pix,lifestyle scene,1.0,product removed or replaced,living room generated; pillow gone
+abo_71LOyJw0oXL_complex_edit,instruct_pix2pix,complex edit,1.0,product removed or replaced,pillow became a textured pink blanket
+abo_51NiiFw3qYL_white_background,instruct_pix2pix,white background,3.0,instruction not carried out,"light blue-white gradient, not plain white"
+abo_51NiiFw3qYL_brighter_lighting,instruct_pix2pix,brighter lighting,4.0,instruction not carried out,almost unchanged; slightly lighter
+abo_51NiiFw3qYL_lifestyle_scene,instruct_pix2pix,lifestyle scene,1.0,product removed or replaced,living room generated; tap gone
+abo_51NiiFw3qYL_complex_edit,instruct_pix2pix,complex edit,3.0,instruction not carried out,tap darker; no shadow
+abo_81GOo6Ox-eL_white_background,instruct_pix2pix,white background,2.0,product redrawn or detail lost,case washed out; printed text faint
+abo_81GOo6Ox-eL_brighter_lighting,instruct_pix2pix,brighter lighting,3.0,product redrawn or detail lost,brighter but colour shifted to green; beige background
+abo_81GOo6Ox-eL_lifestyle_scene,instruct_pix2pix,lifestyle scene,1.0,product removed or replaced,living room generated; case gone
+abo_81GOo6Ox-eL_complex_edit,instruct_pix2pix,complex edit,1.0,product removed or replaced,case became plain textured blue; text gone
+abo_71yrcq7MkKL_white_background,instruct_pix2pix,white background,1.0,product removed or replaced,product gone; blank white image
+abo_71yrcq7MkKL_brighter_lighting,instruct_pix2pix,brighter lighting,4.0,instruction not carried out,almost unchanged; slightly brighter
+abo_71yrcq7MkKL_lifestyle_scene,instruct_pix2pix,lifestyle scene,1.0,product removed or replaced,living room generated; case gone
+abo_71yrcq7MkKL_complex_edit,instruct_pix2pix,complex edit,1.0,product removed or replaced,abstract shapes; product gone
+abo_91qhS0mWCKL_white_background,gemini_image,white background,5.0,"clean edit, product intact",clean white background; product shown smaller
+abo_91qhS0mWCKL_brighter_lighting,gemini_image,brighter lighting,4.0,"clean edit, product intact",brighter; product intact
+abo_91qhS0mWCKL_lifestyle_scene,gemini_image,lifestyle scene,4.0,minor change to the product,bag on a table by a fireplace; label details simplified
+abo_91qhS0mWCKL_complex_edit,gemini_image,complex edit,3.0,minor change to the product,white background and shadow; pouch re-rendered as a standing bag
+abo_71LOyJw0oXL_white_background,gemini_image,white background,5.0,"clean edit, product intact",clean white background; pillow intact
+abo_71LOyJw0oXL_brighter_lighting,gemini_image,brighter lighting,5.0,"clean edit, product intact",brighter; pillow intact
+abo_71LOyJw0oXL_lifestyle_scene,gemini_image,lifestyle scene,4.0,"clean edit, product intact",pillow on a wooden table in a living room
+abo_71LOyJw0oXL_complex_edit,gemini_image,complex edit,5.0,"clean edit, product intact",white background with soft shadow
+abo_51NiiFw3qYL_white_background,gemini_image,white background,5.0,minor change to the product,pure white background; tap base slightly changed
+abo_51NiiFw3qYL_brighter_lighting,gemini_image,brighter lighting,4.0,minor change to the product,brighter; spout shape slightly changed
+abo_51NiiFw3qYL_lifestyle_scene,gemini_image,lifestyle scene,3.0,product obscured or scene implausible,tap standing on a coffee table looks odd for a tap
+abo_51NiiFw3qYL_complex_edit,gemini_image,complex edit,5.0,"clean edit, product intact","white background, shadow, brighter"
+abo_81GOo6Ox-eL_white_background,gemini_image,white background,5.0,"clean edit, product intact",already white; case intact
+abo_81GOo6Ox-eL_brighter_lighting,gemini_image,brighter lighting,5.0,"clean edit, product intact",slightly brighter; case intact
+abo_81GOo6Ox-eL_lifestyle_scene,gemini_image,lifestyle scene,3.0,product obscured or scene implausible,phone on a table in a living room; case design hard to see
+abo_81GOo6Ox-eL_complex_edit,gemini_image,complex edit,5.0,"clean edit, product intact",white background with soft shadow
+abo_71yrcq7MkKL_white_background,gemini_image,white background,5.0,"clean edit, product intact",already white; case intact
+abo_71yrcq7MkKL_brighter_lighting,gemini_image,brighter lighting,5.0,"clean edit, product intact",slightly brighter; case intact
+abo_71yrcq7MkKL_lifestyle_scene,gemini_image,lifestyle scene,3.0,product obscured or scene implausible,phone on a table; side views dropped; case small
+abo_71yrcq7MkKL_complex_edit,gemini_image,complex edit,5.0,"clean edit, product intact",white background with soft shadow

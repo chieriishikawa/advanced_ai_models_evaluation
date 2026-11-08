@@ -9,6 +9,8 @@ Evaluation code for COMP8410 Assignment 1. Four pairs of AI models are compared 
 | 3 | Customer support assistant | Same LLMs without the store policy | GPT-OSS 120B (Groq) | Gemini Flash | `pair3_llm_assistant/pair3_llm_assistant.ipynb` |
 | 4 | Payment fraud detection | Isolation Forest | VAE | RealNVP normalizing flow | `pair4_anomaly_detection/pair4_anomaly_detection.ipynb` |
 
+Each pair folder has its own `README.md` with an implementation statement (what the notebook does, section by section), the steps to run it and the files it writes.
+
 ## Setup
 
 1. Create a fresh virtual environment (recommended, so package versions do not clash with other projects):
@@ -51,8 +53,8 @@ The `data/` folder is git-ignored. Every notebook downloads what it needs, excep
 
 1. Open a notebook from inside the repo and run all cells. Settings, exact model IDs and seeds are in the Settings cell of each notebook.
 2. Every notebook writes its tables (CSV) and figures (PNG) to `results/pairN/`, and an `environment.json` with the hardware and package versions used.
-3. Each notebook creates a `self_evaluation.csv` template the first time it runs. Fill it in and re-run the self-evaluation and cost sections.
-4. Pairs 1 and 3 cache every model output (`pair1_image_editing/outputs/`, `pair3_llm_assistant/cached_responses/`). Re-running skips work that is already done, and failed API calls are retried.
+3. Each notebook creates a `self_evaluation.csv` template the first time it runs. Fill it in and re-run the self-evaluation and cost sections. The scoring rubric is in Appendix C of the report.
+4. Pairs 1 and 3 cache every model output (`pair1_image_editing/outputs/`, `pair3_llm_assistant/cached_responses/`). Re-running skips work that is already done, and failed API calls are retried. Pair 3's cache is in the repository, so re-running that notebook makes no new API calls. Pair 1's edited images are too large for the repository and are in the Google Drive folder linked in the report.
 
 API models are not fully deterministic, so the exact model IDs and run dates are recorded in the report: `openai/gpt-oss-120b` (Groq), `gemini-2.5-flash`, `gemini-2.5-flash-image` and `gemini-3.5-flash` (Google AI Studio).
 

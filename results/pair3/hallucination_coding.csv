@@ -1,0 +1,31 @@
+answer_id,model,item_set,intent,code,invented_detail
+gptoss|policy|support_4|0,gptoss,support,change_shipping_address,invented feature or procedure,contact the carrier through the tracking link
+gptoss|policy|support_5|0,gptoss,support,change_shipping_address,invented feature or procedure,arrange a redelivery
+gptoss|policy|support_10|0,gptoss,support,check_payment_methods,invented interface step,saved cards listed under Settings
+gptoss|policy|support_20|0,gptoss,support,create_account,invented interface step,Sign Up button and account-type dropdown
+gptoss|policy|support_24|0,gptoss,support,delivery_options,invented feature or procedure,change delivery option later in Orders
+gptoss|policy|support_28|0,gptoss,support,edit_account,invented interface step,Save button and live-chat link
+gptoss|policy|support_35|0,gptoss,support,newsletter_subscription,invented rule or contact channel,newsletter sign-up sent to live chat or phone
+gptoss|policy|support_38|0,gptoss,support,place_order,invented interface step,Add to Cart and cart icon steps
+gptoss|policy|support_43|0,gptoss,support,registration_problems,invented rule or contact channel,password of at least 8 characters with a letter and a number
+gptoss|policy|support_44|0,gptoss,support,review,invented interface step,Leave a Review button in Orders
+gptoss|policy|support_45|0,gptoss,support,review,invented rule or contact channel,Help Centre form for general feedback
+gptoss|policy|support_47|0,gptoss,support,set_up_shipping_address,invented interface step,Add new address button
+gptoss|policy|support_50|0,gptoss,support,track_order,invented feature or procedure,expected dispatch date shown in Orders
+gptoss|policy|typos_1|0,gptoss,typos,get_refund,invented interface step,Return/Refund button and return label
+gptoss|policy|typos_4|0,gptoss,typos,review,advice beyond the policy,review-writing tips not in the policy
+gptoss|policy|typos_8|0,gptoss,typos,recover_password,invented interface step,Forgot password link and Change password steps
+gptoss|policy|colloquial_4|0,gptoss,colloquial,change_order,invented interface step,Return option in Orders
+gptoss|policy|colloquial_6|0,gptoss,colloquial,review,invented interface step,Leave Review button or star icon
+gptoss|policy|colloquial_8|0,gptoss,colloquial,review,invented interface step,review option in Orders
+gptoss|policy|offensive_0|0,gptoss,offensive,set_up_shipping_address,invented interface step,delivery-details page at checkout
+gptoss|policy|offensive_2|0,gptoss,offensive,create_account,invented rule or contact channel,8-character password and terms tick box
+gptoss|policy|offensive_3|0,gptoss,offensive,change_shipping_address,invented feature or procedure,contact the carrier through the tracking link
+gptoss|policy|offensive_4|0,gptoss,offensive,change_shipping_address,invented feature or procedure,contact the seller to change the address
+gptoss|policy|multi_intent_0|0,gptoss,multi_intent,,invented feature or procedure,unsubscribe link and Communications settings
+gptoss|policy|multi_intent_1|0,gptoss,multi_intent,,no invented fact found,answer matches the policy
+gptoss|policy|multi_intent_2|0,gptoss,multi_intent,,invented feature or procedure,invoice download in Orders
+gptoss|policy|multi_intent_3|0,gptoss,multi_intent,,invented rule or contact channel,supported email address and terms acceptance
+gemini|policy|support_4|0,gemini,support,change_shipping_address,invented rule or contact channel,address change allowed only before dispatch
+gemini|policy|support_20|0,gemini,support,create_account,invented interface step,Sign Up or Register button
+gemini|policy|colloquial_4|0,gemini,colloquial,change_order,invented interface step,returns started in Orders
